@@ -1,6 +1,4 @@
 # Quera-Questions-C
-**Short description:**  > My solutions to Quera programming problems, written in C, focused on practicing problem-solving and fundamental programming concepts.
-
 
 This repository contains my solutions to programming questions from **Quera**, written in the **C programming language**.
 
